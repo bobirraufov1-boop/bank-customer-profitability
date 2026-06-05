@@ -17,3 +17,9 @@ A full end-to-end data analytics project built on a 30-table banking database.
 - `Bank.sql` — database schema + KPI queries
 - `Bank_data_generation.ipynb` — Python data generation script
 - `Bank_Visuals.pdf` — Power BI dashboard export
+
+## KPI Queries
+1. Customer Profitability Score — ranks all customers by estimated profit
+2. Pareto Analysis — proves top 20% generate 70% of profit
+3. Profit by Branch — identifies best and worst performing branches
+4. Customer Segment Analysis — compares High/Medium/Low value segments
